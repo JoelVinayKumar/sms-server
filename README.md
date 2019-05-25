@@ -8,5 +8,5 @@ input to POST requests.
 * Now run `python main.py`
 * Open Postman and keeping method as POST, paste `https://localhost:5000/inbound/sms` for inbound request.
 * In 'Authorization tab' enter username and auth_id(password)
-* In 'Body"' tab, select 'raw' and keep type as JSON type
+* In 'Body' tab, select 'raw' and keep type as JSON type
 * Hit send and check the response from below
