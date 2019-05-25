@@ -5,7 +5,7 @@ import psycopg2
 
 app = Flask(__name__)
 r = redis.StrictRedis(host="127.0.0.1",port="6379",decode_responses= True ,charset= "utf-8")
-con = psycopg2.connect(host="localhost",database="testdb",user="postgres",password="darkmatter")
+con = psycopg2.connect(host="localhost",database="testdb",user="postgres",password = <yourpassword>)
 cur = con.cursor()
 
 
