@@ -1,8 +1,14 @@
-# sms-server
+## sms-server
 A micro service API server that exposes the following 2 APIs that accept JSON data as
 input to POST requests.
 
-## How to Run this in a local machine
+### Requirements
+
+* [Postman](https://www.getpostman.com/downloads/)
+* [Python 3](https://www.python.org/downloads/)
+
+
+### How to Run this in a local machine
 
 * Download and run `pip install -r requirements.txt` inside command prompt/terminal
 * Now run `python main.py`
