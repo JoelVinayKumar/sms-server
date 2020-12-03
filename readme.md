@@ -8,6 +8,7 @@ input to POST requests.
 * [Python 3](https://www.python.org/downloads/)
 * [Postgres](https://www.postgresql.org)
 * [PgAdmin](https://www.pgadmin.org/download/)
+* [Redis](https://https://redis.io/download/)
 
 ### How to Run this in a local machine
 
